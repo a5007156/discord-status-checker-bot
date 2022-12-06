@@ -1,0 +1,1 @@
+# discord-status-checker-bot
