@@ -1,0 +1,22 @@
+{
+  "name": "discord status checker bot",
+  "version": "1.0.0",
+  "description": "Simplest way to check status with a discord bot",
+  "main": "./bot.js",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "scripts": {
+    "start": "node ./bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tecosse/discord-status-checker-bot.git"
+  },
+  "author": "Tecosse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tecosse/discord-status-checker-bot/issues"
+  },
+  "homepage": "https://github.com/Tecosse/discord-status-checker-bot#readme"
+}
